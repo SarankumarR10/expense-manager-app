@@ -12,3 +12,22 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Build
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated
+pubspec.lock
