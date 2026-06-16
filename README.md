@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # expense_manager
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# expense-manager-app
+Flutter Expense Manager App with Firebase Authentication and Firestore
+>>>>>>> 61e42d3806a45ff3d7c47f2854245b9d9cf097a6
