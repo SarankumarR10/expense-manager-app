@@ -163,23 +163,3 @@ app.*.symbols
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
 >>>>>>> 61e42d3806a45ff3d7c47f2854245b9d9cf097a6
-#firebase
-# Firebase
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
-
-# Flutter
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-
-# Build
-build/
-
-# IDE
-.idea/
-.vscode/
-
-# Generated
-pubspec.lock
